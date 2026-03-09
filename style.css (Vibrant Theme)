@@ -1,0 +1,50 @@
+body
+{
+font-family: Arial;
+background: linear-gradient(to right,#ff9966,#ff5e62);
+color: white;
+margin:0;
+}
+
+header
+{
+background:#333;
+padding:20px;
+text-align:center;
+}
+
+nav a
+{
+color:white;
+margin:10px;
+font-size:18px;
+text-decoration:none;
+}
+
+nav a:hover
+{
+color:yellow;
+}
+
+section
+{
+background:white;
+color:black;
+padding:30px;
+margin:30px;
+border-radius:10px;
+}
+
+h1
+{
+color:orange;
+}
+
+button
+{
+background:orange;
+color:white;
+border:none;
+padding:10px 20px;
+font-size:16px;
+}
